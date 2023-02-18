@@ -1,4 +1,4 @@
-# Medexsepeti Bk task
+# Medexsepeti task
 ## Installation
 ```
 git clone https://github.com/hishamatef/tl_bk_task.git
