@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'products' => 'Products',
+    'add_product'=> 'Add Product',
+    'edit_product' => 'Edit Product',
+    'delete_product' => 'Delete Product',
+    'show_product' => 'Show Product Info',
+    'total_products'=> 'Total Products',
+    'barcode' => 'Barcode',
+    'short_description' => 'Short Description',
+    'long_description' => 'Long Description',
+    'price' => 'Price',
+    'price_after_discount' => 'Price After Discount',
+    'quantity' => 'Quantity',
+    'discount' => 'Discount',
+    'discount_type' => 'Discount Type',
+    'discount_start_at' => 'discount Start At',
+    'discount_end_at' => 'Discount End At',
+    'status' => 'Status',
+    'fixed' => 'Fixed',
+    'percent' => 'Percent',
+    'active' => 'Active',
+    'inactive' => 'Inactive',
+    'views'=>'Views',
+    'product_image'=>'Product Image',
+];
